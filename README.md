@@ -32,7 +32,7 @@ This is responsive website using javascript , Mysqli database add and responsive
 # 2)![image](https://user-images.githubusercontent.com/102310770/186612022-de62dfab-9d7d-4069-8c81-891a77c085cf.png)
 #                User sign account
 # 3)![image](https://user-images.githubusercontent.com/102310770/186612203-d518eeec-fe50-4f91-b4f5-abb5ca8116cf.png)
-#  /////////////////////////////Search bar//////////////////////////////////////////////////////////////////////////
+#  Search bar
 # 4)![image](https://user-images.githubusercontent.com/102310770/186612401-a66ad599-bcc1-4b29-ae83-3faca8ca898a.png)
 #                     Notification shopping cart
 #             Click the cart botton
