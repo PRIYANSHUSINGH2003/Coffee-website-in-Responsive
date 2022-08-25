@@ -11,7 +11,7 @@ This is responsive website using javascript , Mysqli database add and responsive
 # 7)![image](https://user-images.githubusercontent.com/102310770/186609944-6bbfff21-5706-485b-905a-c0333f6526a7.png)
 # 8)![image](https://user-images.githubusercontent.com/102310770/186610021-d847fc45-028e-4a41-8bf0-3888111cbc3b.png)
 # 9)![image](https://user-images.githubusercontent.com/102310770/186610086-6b581e47-0044-46e6-98d0-ad4903cb0618.png)
-#                          Responsive website {'"_._"'}
+#                          Responsive website {'-'_._'-'}
 # 1)![image](https://user-images.githubusercontent.com/102310770/186610360-195945e3-5b14-4db6-a964-1ab0d83bb618.png)
 #                           Mobile view  :-)
 # 1)![image](https://user-images.githubusercontent.com/102310770/186610621-6fa81750-5407-48b8-b720-28eb40ba2c41.png)
@@ -25,7 +25,7 @@ This is responsive website using javascript , Mysqli database add and responsive
 # 9)![image](https://user-images.githubusercontent.com/102310770/186611473-a61ed951-bfe2-4e25-a75d-afe24d243bea.png)
 # 10)![image](https://user-images.githubusercontent.com/102310770/186611586-85a1638c-a690-467b-8eeb-d8ecce63e79e.png)
 # 11)![image](https://user-images.githubusercontent.com/102310770/186611647-73922542-5454-4ec8-a8a5-d31a85b7607e.png)
-#               Javascript {'"_._"'}
+#               Javascript {'-'_._'-'}
 #                  Manu box  :-)
 # 1)=>![image](https://user-images.githubusercontent.com/102310770/186611838-5add8eb0-5933-41c5-b5b4-71020dd8d2c1.png)
 #                 Shopping cart  :-)
@@ -34,12 +34,12 @@ This is responsive website using javascript , Mysqli database add and responsive
 # 3)=>![image](https://user-images.githubusercontent.com/102310770/186612203-d518eeec-fe50-4f91-b4f5-abb5ca8116cf.png)
 #  Search bar :-)
 # 4)=>![image](https://user-images.githubusercontent.com/102310770/186612401-a66ad599-bcc1-4b29-ae83-3faca8ca898a.png)
-#                     Notification shopping cart {'"_._"'}
+#                     Notification shopping cart {'-'_._'-'}
 #             Click the cart botton  :-)
 # 5)=>![image](https://user-images.githubusercontent.com/102310770/186612627-1bdcbd48-e52f-4d5b-af86-b059308f20e1.png)
 #            Show notification  :-)
 # 6)=>![image](https://user-images.githubusercontent.com/102310770/186612867-4865c331-f6d9-4812-b8f4-1f12a0762310.png)
-#              Show the element of a cart and price
+#              Show the element of a cart and price {'-'_._'-'}
 # 7)=>![image](https://user-images.githubusercontent.com/102310770/186613155-90092f90-7137-4ff0-b8d3-f31a3e951e99.png)
 #              Grand total show  :-)
 # 8)=>![image](https://user-images.githubusercontent.com/102310770/186613324-5ce82614-280f-4d31-acfb-35d412adacb1.png)
@@ -48,10 +48,10 @@ This is responsive website using javascript , Mysqli database add and responsive
 #                Remove the cart  :-)
 # 10)![image](https://user-images.githubusercontent.com/102310770/186613756-c6820f04-c466-421e-ad72-ba3b5318946b.png)
    ![image](https://user-images.githubusercontent.com/102310770/186613853-4d2d5543-01e9-4e8b-99dc-fb44ff7b84a6.png)
-# Fill the this Contact form {'"_._"'}
+# Fill the this Contact form {'-'_._'-'}
 # Output is :=>![image](https://user-images.githubusercontent.com/102310770/186667455-caafadcb-8134-41be-90c3-dac20864a33c.png)
 # Popup show :=>![image](https://user-images.githubusercontent.com/102310770/186667601-8d1e4de7-967f-41b8-b770-61f44da3aacd.png)
-# Mysqli database record {'"_._"'}
+# Mysqli database record {'-'_._'-'}
 ![image](https://user-images.githubusercontent.com/102310770/186617756-28eb85cb-4b27-4dd8-901a-8ce754e3299f.png)
 ![image](https://user-images.githubusercontent.com/102310770/186619255-000cd54c-3265-4fa3-a34f-2a05e81e01b1.png)
 
