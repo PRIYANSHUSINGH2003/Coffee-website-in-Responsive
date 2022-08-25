@@ -50,7 +50,7 @@ This is responsive website using javascript , Mysqli database add and responsive
    ![image](https://user-images.githubusercontent.com/102310770/186613853-4d2d5543-01e9-4e8b-99dc-fb44ff7b84a6.png)
 # Mysqli database record
 ![image](https://user-images.githubusercontent.com/102310770/186617756-28eb85cb-4b27-4dd8-901a-8ce754e3299f.png)
-![image](https://user-images.githubusercontent.com/102310770/186617631-fa2879d7-5244-4be6-9fa5-08d66c066699.png)
+![image](https://user-images.githubusercontent.com/102310770/186619255-000cd54c-3265-4fa3-a34f-2a05e81e01b1.png)
 
     
 #Link of website :http://coffee-website-services.epizy.com/indext.html
